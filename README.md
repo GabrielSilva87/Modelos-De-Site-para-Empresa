@@ -3,6 +3,6 @@
    
   *Gostou dos meus projetos? Para me ajudar a melhorar, você pode contribuir através de minha chave pix.*
    
-**Pix: (+55) 43 98422-1307**
+![Pix: (+55) 43 98422-1307](https://img.icons8.com/fluent/512/pix.png)
 
 **Gmail: gabrielgomesdev746@gmail.com**
