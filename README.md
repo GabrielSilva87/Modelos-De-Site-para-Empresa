@@ -1,4 +1,4 @@
-        *___Made by GabrielSilva87___*
+         Made by GabrielSilva87
 # 👨‍💻 Modelos de Sites e Softwares para empresas
    
    
